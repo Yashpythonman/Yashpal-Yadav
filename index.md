@@ -1,37 +1,40 @@
 # Yashpal Yadav
-### Python (Django) Developer
-You can use the [editor on GitHub](https://github.com/Yashpythonman/resume/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+## Python (Django) Developer
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Contact:
+Mobile : 9098073885
+Email  : yashpythonman@gmail.com
 
-### Markdown
+## Address:
+155 Kaushalyapuri,
+Nemawer Road Navalkha, Indore
+(M.P.) Indial
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Summary
+A Python developer with 2.2 years of experience in Django Rest API and Template based web applications. 
 
-```markdown
-Syntax highlighted code block
+## Education
+1. Graduation:
+   Bachelor of Engineering in stream of Electrical and Electronics.
 
-# Header 1
-## Header 2
-### Header 3
+## Programming Languages
+1. Python-3.X, Python-2.X
+2. J2SE, J2EE
+3. Go
+4. JavaScript
+5. HTML
+6. CSS
+7. C++
+8. C
 
-- Bulleted
-- List
+## Frameworks
+1. Django-2.X
+2. Flask
 
-1. Numbered
-2. List
+## Work Experience:
 
-**Bold** and _Italic_ and `Code` text
+## Sr. Python (Django) Developer:
+### Ideal It Techno Pvt. Ltd.
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Yashpythonman/resume/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## Python Developer:
+### Kangroo Software Pvt. Ltd.
